@@ -1,3 +1,3 @@
 - **General-source-code**
 ### 1.logistic regression
-`\beta`
+$\alpha_1y_1+\alpha_2y_2=\varsigma$
