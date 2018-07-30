@@ -2,4 +2,4 @@
 ### 1.logistic regression
 ### 2.nerual network and backpropagation
 ### 3.(SVM)Multiclass Support Vector Machine
-  - **the implementation of [CS231n](http://cs231n.github.io/linear-classify/) **
+  - **the implementation of [CS231n](http://cs231n.github.io/linear-classify/)**
