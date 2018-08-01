@@ -6,4 +6,4 @@
 ### 3.(SVM)Multiclass Support Vector Machine
   - **the implementation of [CS231n](http://cs231n.github.io/linear-classify/)**
 ### 4.Soft_max Classifier
-  - **the expaination of this algorithm in detail on the [blog](https://blog.csdn.net/lx_ros/article/details/81329500)
+  - **the expaination of this algorithm in detail on the [blog](https://blog.csdn.net/lx_ros/article/details/81329500)**
