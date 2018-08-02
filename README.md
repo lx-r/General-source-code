@@ -8,4 +8,6 @@
 ### 4.Soft_max Classifier
   - **the expaination of this algorithm in detail on the [blog](https://blog.csdn.net/lx_ros/article/details/81329500)**
 ### 5.K_Nearest_Neighbot
-  - **Since the data used in this example is very little and the image is gray, so the knn method have a not too better result.The axplaination on the [blog](https://blog.csdn.net/lx_ros/article/details/81358198)**
+  - **Since the data used in this example is very little and the image is gray, so the knn method have a not too better result.The explaination on the [blog](https://blog.csdn.net/lx_ros/article/details/81358198)**
+### 6.Percepron Learning Algorithm
+  - **This is the implementation of the PLA with the instrution of HT Lin's course on Coursera.The detail in this [blog](https://blog.csdn.net/lx_ros/article/details/80573147)**
